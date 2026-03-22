@@ -3,7 +3,6 @@
 **Ethiopia's first multilingual AI agent platform for businesses.**
 
 Live: [hulumagent.online](https://hulumagent.online)
-![image_1](assets/Screenshot_20260322-123616_1.png)
 ---
 
 ## Overview
@@ -11,7 +10,7 @@ Live: [hulumagent.online](https://hulumagent.online)
 HulumAgent provides businesses with intelligent AI agents that automate customer support, boost engagement, and operate 24/7 across platforms including Telegram, WhatsApp, and Web.
 
 Built specifically for the Ethiopian and African market with full support for Amharic, Oromic, and English — making it the first AI agent provider in Ethiopia serving local languages at this scale.
-![image_2](assets/Screenshot_20260322-123602_1.png)
+
 ---
 
 
@@ -34,7 +33,6 @@ Voice-enabled bots supporting Amharic, English, and Oromic speech recognition an
 
 **Live Chat + AI Hybrid Support**
 Combines AI agents with human handover logic for seamless 24/7 customer support at scale.
-![image 3](assets/Screenshot_20260322-123548_1.png)
 ---
 
 ## Tech Stack
