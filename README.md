@@ -3,6 +3,7 @@
 **Ethiopia's first multilingual AI agent platform for businesses.**
 
 Live: [hulumagent.online](https://hulumagent.online)
+
 ---
 
 ## Overview
@@ -33,6 +34,7 @@ Voice-enabled bots supporting Amharic, English, and Oromic speech recognition an
 
 **Live Chat + AI Hybrid Support**
 Combines AI agents with human handover logic for seamless 24/7 customer support at scale.
+
 ---
 
 ## Tech Stack
